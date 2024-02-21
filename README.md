@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning WEB AND APP DEV
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me snmohammedhabib@gmail.com
-- 😄 Pronouns: He/Her
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
 <!---
